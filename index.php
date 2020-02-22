@@ -19,6 +19,16 @@ print("<br>");
 echo ("La division es: ".$numero1."/".$numero2."=".$division);
 
 
+echo "<br> <br> Ejercicio 2 <br><br>" ;
+
+$peso=85;
+$altura=1.78;
+$imc=$peso/($altura*$altura);
+
+
+
+
+
 
 
 
